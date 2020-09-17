@@ -13,5 +13,5 @@ I have customized TFT_eSprite.
 
 TFT_eSpriteをカスタマイズして使っています。
 
-プレイ動画
+プレイ動画 / PLAYMOVIE
 http://www.team-rh.com/wp-content/uploads/2019/05/D5CeQYKU0AE2ylZ.mp4
