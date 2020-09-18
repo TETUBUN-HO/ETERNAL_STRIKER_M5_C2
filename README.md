@@ -22,6 +22,7 @@ https://github.com/TETUBUN-HO/ETERNAL_STRIKER_M5/
 ＊説明
 
 ガラケー前期、Doja2.1-3.0、あるいはMIDP時代に作った作品 [ETERNAL STRIKER Rr]の移植作です。
+
 SPIFFSは、スコアセーブ以外に使っていません。
 
 権利の関係上もありサウンドは有りません。（現状上手く鳴らないという事もあります）
